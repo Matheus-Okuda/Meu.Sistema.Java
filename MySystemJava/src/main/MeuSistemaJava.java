@@ -12,7 +12,7 @@ public class MeuSistemaJava {
 		
 		char feminino = 'F';
 				
-		double horasestudo = 23.5; 
+		double horasEstudo = 23.5; 
 		
 		System.out.println("===================");
 		System.out.println("Meu Sistema Java");
@@ -20,8 +20,8 @@ public class MeuSistemaJava {
 		System.out.println("Nome: " + nome);
 		System.out.println("Sexo : " + feminino);
 		System.out.println("Curso: " + curso);
-		System.out.println("Horas totais estudadas: " + horasestudo);
-		System.out.println("Mudolo atual: " + moduloAtual);
+		System.out.println("Horas totais estudadas: " + horasEstudo);
+		System.out.println("Módulo atual: " + moduloAtual);
 		System.out.println("Certificados: " + certificados);
 	}
 }
